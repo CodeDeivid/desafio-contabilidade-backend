@@ -13,7 +13,7 @@ API desenvolvida em Node.js para gerenciamento de produtos e clientes, utilizand
 ### Instalação e Execução
 ```bash
 # Clone o repositório
-git clone 
+git clone https://github.com/CodeDeivid/desafio-contabilidade-backend.git
 
 # Entre no diretório
 cd desafio-contabilidade-backend
